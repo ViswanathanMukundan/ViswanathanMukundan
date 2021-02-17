@@ -1,6 +1,6 @@
-Hi, I’m @ViswanathanMukundan
+Hi! I’m @ViswanathanMukundan.
 I’m interested in Machine Learning, Python programming. 
-I’m currently an undergraduate student of Information Technology
+I’m currently an undergraduate student of Information Technology.
 Connect with me on Gmail (viswanathan3141@gmail.com)
 
 <!---
