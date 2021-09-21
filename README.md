@@ -1,7 +1,9 @@
 Hi! I’m @ViswanathanMukundan.<br>
 I’m currently an undergraduate student of Information Technology.<br>
-I was interested in Machine Learning/Python programming, but then shifted towards Object-Oriented programming, and developed a further interest in Java because of it.<br>
-Currently I'm aspiring to become a full-fledged product development architect, by getting involved in all the stages of development, atleast once. Development is not all about programming!
+I'm interested in Machine Learning/Python programming, as well as Object-Oriented programming. This led me to develop a further interest in Java.<br>
+Currently I'm aspiring to become a full-fledged product development architect, by getting involved in all the stages of the product life-cycle.<br><br>
+
+Development is not all about programming!
 
 
 
